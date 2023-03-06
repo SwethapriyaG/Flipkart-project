@@ -1,0 +1,175 @@
+body{
+    background-color: white;
+    margin: 0;
+    color: rgb(12, 9, 5);
+    line-height: 1.6;
+}
+ a{
+    text-decoration: none;
+    color: aliceblue;
+ }
+ #showcase{
+    margin: 0;
+    padding: 0;
+ }
+ .wrdSty{
+   color: rgba(255, 255, 0, 0.925);
+ }
+ .active{
+   font-style: italic;
+   font-weight: bold;
+   font-size: medium;
+ }
+ .divsty{
+   padding: auto;
+   padding-left: 0px;
+   padding-right: 0px;
+ }
+ .ank1{
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+
+ }
+ .ank2{
+   
+   color: white;
+   font-weight: bolder;
+   font-size: large;
+ }
+ .ank3{
+   
+   color: white;
+   font-weight: bolder;
+   font-size: large;
+ }
+ .ank4{
+   
+   color: white;
+   font-weight: bolder;
+   font-size: large;
+   padding: 5px, 5px, 5px,5px;
+ }
+ .anknav1{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav2{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav3{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+  text-align: justify;
+ }
+ .anknav4{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav5{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav6{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav7{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav8{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav9{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .anknav10{
+  color: black;
+  size: 100%;
+  font-size: large;
+  font-weight: bold;
+ }
+ .footSty{
+  background-color: rgb(3, 42, 19);
+  
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 0%;
+  
+
+ }
+ .footer-cols{
+  text-align: left;
+  padding-left: 0px;
+  color: azure;
+  font-family: sans-serif;
+  padding-bottom: 2%;
+ }
+ .footer-cols li{
+  color: gray;
+  font-weight: bold;
+  list-style: none;
+  text-align: left;
+  padding-bottom: 3%;
+  font-size: larger;
+  
+ }
+ .footer-cols a{
+  font-size: larger;
+  font-family: sans-serif;
+  padding-bottom: 1%;
+ }
+ .vertical{
+  border-left: 1px solid rgba(252, 253, 253, 0.299);
+  height: 150px;
+  position:left;
+  left: 5%;          
+ }
+ .lastDiv{
+  text-align: left;
+  padding-left: 5%;
+  
+ }
+ .horiz{
+  border-top: 1px solid rgba(252, 253, 253, 0.299);
+  width: 85%;
+  position: absolute;
+
+           
+ }
+ .footer-bottom {
+  padding-left: 0px;
+  padding-top: 20px;
+  font-size: small;
+ }
+ .flip{
+  color: azure;
+ }
+ .image img{
+  width: 64px;
+  height: 64px;
+
+ }
